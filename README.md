@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fallenstedt" target="blank"><img src="https://img.shields.io/twitter/follow/fallenstedt?logo=twitter&style=for-the-badge" alt="fallenstedt" /></a> </p>
 
-- 🔭 I’m currently working on [findtechjos.io](https://www.findtechjobs.io/)
+- 🔭 I’m currently working on [findtechjobs.io](https://www.findtechjobs.io/)
 
 - 💬 Ask me about **Building large scale frontend applications**
 
