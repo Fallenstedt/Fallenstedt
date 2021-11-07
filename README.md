@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fallenstedt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fallenstedt" height="30" width="40" /></a>
+<a href="https://500px.com/p/alexanderfallenstedt?view=photos" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/500px.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/fallenstedt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fallenstedt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexfallenstedt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexfallenstedt" height="30" width="40" /></a>
 </p>
