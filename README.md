@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [findtechjobs.io](https://www.findtechjobs.io/)
 
-- 💬 Ask me about **Building large scale frontend applications**
+- 💬 Ask me about TypeScript or Go! 
 
-- 📄 Or view my linkedin profile here [https://www.linkedin.com/in/alexfallenstedt/](https://www.linkedin.com/in/alexfallenstedt/)
+- 📚 I'm currently learning Haskell
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
