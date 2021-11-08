@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alex Fallenstedt</h1>
-<h3 align="center">I strive for short feedback loops, well-tested code, and an agile development process. I consider these to be the primary elements for delivering quality and maintainable software with high-confidence.</h3>
-
-<p align="left"> <a href="https://twitter.com/fallenstedt" target="blank"><img src="https://img.shields.io/twitter/follow/fallenstedt?logo=twitter&style=for-the-badge" alt="fallenstedt" /></a> </p>
+<p align="center">I strive for short feedback loops, well-tested code, and an agile development process. I consider these to be the primary elements for delivering quality and maintainable software with high-confidence.</p>
 
 - 🔭 I’m currently working on [findtechjobs.io](https://www.findtechjobs.io/)
 
