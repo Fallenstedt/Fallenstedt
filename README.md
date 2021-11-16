@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on [findtechjobs.io](https://www.findtechjobs.io/)
 
-- 💬 Ask me about TypeScript or Go! 
-
-- 📚 I'm currently learning Haskell
 
 <p align="left">Connect with me:</p>
 <p align="left">
