@@ -7,5 +7,6 @@
 <p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://500px.com/p/alexanderfallenstedt?view=photos" target="blank">500px</a>
+<br>
 <a href="https://twitter.com/fallenstedt" target="blank">Twitter</a>
 </p>
