@@ -1,7 +1,7 @@
 <p align="left">Hey 👋, I'm Alex Fallenstedt</p>
 <p align="left">I strive for short feedback loops, well-tested code, and an agile development process. I consider these to be the primary elements for delivering quality and maintainable software with high-confidence.</p>
 
-- 🔭 I’m currently building [findtechjobs.io](https://www.findtechjobs.io/)
+- 🔭 I’m currently building [glossy.dev](https://www.glossy.dev/)
 
 
 
