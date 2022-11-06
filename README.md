@@ -11,7 +11,7 @@ Some fun things I've deployed in my spare time
 <p align="left">
 <a href="https://500px.com/p/alexanderfallenstedt?view=photos" target="blank">500px</a>
 <br>
-<a href="https://twitter.com/fallenstedt" target="blank">Twitter</a>
+<a href="https://indieweb.social/web/@Fallenstedt" target="blank">Mastodon</a>
 <br>
 <a href="https://fallenstedt.com" target="blank">Blog</a>
 </p>
