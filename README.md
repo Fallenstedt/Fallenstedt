@@ -3,7 +3,7 @@
 
 
 Some fun things I've deployed in my spare time
--  [glossy.dev](https://www.glossy.dev/)
+-  [glossy](https://glossydev.netlify.app)
 -  Coming soon ... Garden Tour 📷
 
 
